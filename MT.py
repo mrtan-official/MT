@@ -10,4 +10,4 @@ if bit == '64bit':
     os.system("clear") 
     import wix
 else:
-    continue
+    print("You are not 64bit")
