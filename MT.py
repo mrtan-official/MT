@@ -9,4 +9,5 @@ if bit == '64bit':
     time.sleep(3)
     os.system("clear") 
     import wix
-else:continue
+else:
+    continue
