@@ -8,6 +8,6 @@ if bit == '64bit':
     os.system("clear") 
     #import wix
     while True:
-        print('Tool is off')
+        print('              Tool is off')
 else:
     print("You are not 64bit")
